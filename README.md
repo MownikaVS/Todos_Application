@@ -26,17 +26,8 @@ The Todos Application is a persistent todo list application that allows users to
 [mvstodosapp.ccbp.tech](mvstodosapp.ccbp.tech)
 
 ### Screenshots
-![Todos Application Screenshot](screenshot.png)
-
-### Video Links
-* [Demo Video](https://www.youtube.com/watch?v=insert_video_link_here)
-* [Tutorial Video](https://www.youtube.com/watch?v=insert_video_link_here)
-
-### License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-### Badges
-[![HTML](https://img.shields.io/badge/HTML-5-blue)](https://www.w3.org/html/)
-[![CSS](https://img.shields.io/badge/CSS-3-blue)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-blue)](https://www.javascript.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-4-blue)](https://getbootstrap.com/)
+* ![Screenshot 1: Todos application] ### This screenshot shows the initial state of the application. The user interface is clean and simple, consisting of a heading "Todos" and an area to create new tasks.
+* ![Adding a Todo Item Screenshot](screenshot2.png)
+* ![Marking a Todo Item as Completed Screenshot](screenshot3.png)
+* ![Deleting a Todo Item Screenshot](screenshot4.png)
+* ![Todos Item Stored in Local Storage Screenshot](screenshot5.png)
