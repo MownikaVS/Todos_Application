@@ -26,8 +26,8 @@ The Todos Application is a persistent todo list application that allows users to
 [mvstodosapp.ccbp.tech](mvstodosapp.ccbp.tech)
 
 ### Screenshots
-* ![Todos Application]
-  ### This screenshot shows the initial state of the application. The user interface is clean and simple, consisting of a heading "Todos" and an area to create new tasks.
+ ####[Todos Application]
+  * This screenshot shows the initial state of the application. The user interface is clean and simple, consisting of a heading "Todos" and an area to create new tasks.
 * ![Adding a Todo Item](screenshot2.png)
 * ![Marking a Todo Item as Completed](screenshot3.png)
 * ![Deleting a Todo Item](screenshot4.png)
