@@ -1,6 +1,6 @@
-# Todo List Application
+# Todo's Application
 
-**About The Todo List Application**
+**Project Overview:**
 
 The Todo List Application is a web-based task management system that enables users to create, read, update, and delete tasks in a seamless and efficient manner. This application is designed to help individuals stay organized and focused by providing a simple yet effective way to manage their daily tasks.
 
@@ -40,7 +40,7 @@ The Todo List Application is a web-based task management system that enables use
 
 **Screenshots**
 
-**Screenshot 1: Todos application**
+**Screenshot 1: Todo's application**
 
 <img width="226" alt="Todos_application scrren shots 1" src="https://github.com/user-attachments/assets/19490d00-85a9-4148-a870-d17faeb4cfd1">
 
@@ -52,7 +52,7 @@ This screenshot shows the initial state of the application. The user interface i
 <img width="228" alt="Adding a todo item" src="https://github.com/user-attachments/assets/f65a1c1c-ca09-48df-b30e-c9466608f8e3">
 
 
-The user is in the process of adding a new task. They have typed "Do meditation" into the input field and are ready to click the "Add" button.
+The user is in the process of adding a new task. They have typed "Learn Javascript" into the input field and are ready to click the "Add" button.
 
 **Screenshot 3: Marking a todo item as completed**
 
@@ -66,7 +66,7 @@ The user has completed the task "Do meditation" and marked it as done by clickin
 <img width="235" alt="Deleting the todo item" src="https://github.com/user-attachments/assets/9a072ea9-fa16-421a-b69a-fc4658ae51d6">
 
 
-The user has completed the task "Complete 25 Surya Namaskara" and is now deleting it by clicking on the trashcan icon beside the task.
+The user has completed the task "Do meditation" and is now deleting it by clicking on the delete icon beside the task.
 
 **Screenshot 5: Storing All Todo Items in local storage**
 
