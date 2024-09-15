@@ -59,14 +59,14 @@ The user is in the process of adding a new task. They have typed "Learn Javascri
 <img width="235" alt="Mark them as complete" src="https://github.com/user-attachments/assets/b1d4c75b-5c4a-4f52-ac06-9d2451dfc85b">
 
 
-The user has completed the task "Do meditation" and marked it as done by clicking on the checkbox beside the task.
+The user has completed the task "Practice Yoga" and marked it as done by clicking on the checkbox beside the task.
 
 **Screenshot 4: Deleting a todo item**
 
 <img width="235" alt="Deleting the todo item" src="https://github.com/user-attachments/assets/9a072ea9-fa16-421a-b69a-fc4658ae51d6">
 
 
-The user has completed the task "Do meditation" and is now deleting it by clicking on the delete icon beside the task.
+The user has completed the task "Practice Yoga" and is now deleting it by clicking on the delete icon beside the task.
 
 **Screenshot 5: Storing All Todo Items in local storage**
 
@@ -74,3 +74,16 @@ The user has completed the task "Do meditation" and is now deleting it by clicki
 
 
 This screenshot reveals the application's storage mechanism. The "Local storage" section in the application's "Storage" tab displays all the tasks stored locally. Each task is represented by an object containing the task text and a unique identifier.
+
+## Project Video 
+
+
+https://github.com/user-attachments/assets/9b4d54de-6959-40f0-a748-0eb99de08a9f
+
+
+
+### Badges
+[![HTML](https://img.shields.io/badge/HTML-5-blue)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/CSS-3-blue)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-blue)](https://www.javascript.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-4-blue)](https://getbootstrap.com/)
